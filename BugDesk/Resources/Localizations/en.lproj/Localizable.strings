@@ -1,0 +1,122 @@
+/* App */
+"app.title" = "Bug Desk";
+"app.subtitle" = "Bug Reporting Tool";
+
+/* Menu */
+"menu.welcome" = "Welcome";
+"menu.title" = "Main Menu";
+"menu.projects" = "Projects";
+"menu.projectsDesc" = "Manage your bug tracking projects";
+"menu.settings" = "Settings";
+"menu.settingsDesc" = "App preferences and configuration";
+
+/* Auth */
+"auth.signInPrompt" = "Sign in with Google to create reports";
+"auth.signInButton" = "Sign In";
+"auth.signOut" = "Sign Out";
+"auth.signOutConfirm" = "Are you sure you want to sign out?";
+"auth.cancel" = "Cancel";
+
+/* Projects */
+"projects.title" = "Projects";
+"projects.empty" = "No projects yet";
+"projects.emptyDesc" = "Create your first project to start tracking bugs";
+"projects.add" = "New Project";
+"projects.name" = "Project Name";
+"projects.namePlaceholder" = "Enter project name";
+"projects.description" = "Description";
+"projects.descriptionPlaceholder" = "Optional description";
+"projects.create" = "Create Project";
+"projects.delete" = "Delete";
+"projects.deleteConfirm" = "Delete this project?";
+"projects.deleteMessage" = "This will delete all versions and bug reports";
+
+/* Versions */
+"versions.title" = "Versions";
+"versions.empty" = "No versions yet";
+"versions.emptyDesc" = "Create a version to organize bug reports";
+"versions.add" = "New Version";
+"versions.name" = "Version Name";
+"versions.namePlaceholder" = "e.g. 1.0.0";
+"versions.create" = "Create Version";
+"versions.delete" = "Delete Version";
+"versions.deleteConfirm" = "Delete this version?";
+"versions.deleteMessage" = "This will delete all bug reports in this version";
+"versions.bugCount" = "%d bugs";
+
+/* Bug List */
+"bugList.title" = "Bug Reports";
+"bugList.empty" = "No bug reports";
+"bugList.emptyDesc" = "Add your first bug report";
+"bugList.add" = "Add Bug";
+"bugList.generateList" = "Generate Report";
+"bugList.generating" = "Generating...";
+
+/* Device */
+"device.title" = "Device";
+"device.hint" = "Select devices (empty = all)";
+
+/* Screen Module */
+"screenModule.title" = "Screen / Module";
+"screenModule.hint" = "e.g. Settings / Profile";
+
+/* Bug Type */
+"bugType.title" = "Bug Type";
+"bugType.required" = "Bug Type (required)";
+"bugType.placeholder" = "Select bug types (required)";
+
+/* Summary */
+"summary.title" = "Summary";
+"summary.required" = "Summary (required)";
+"summary.hint" = "Brief summary";
+
+/* Description */
+"description.title" = "Description";
+"description.hint" = "Details (optional)";
+
+/* Attachments */
+"attachments.app" = "App Attachments";
+"attachments.appHint" = "App Attachments (up to 10)";
+"attachments.design" = "Design Attachments";
+"attachments.designHint" = "Design Attachments (up to 10)";
+"attachments.select" = "Select photos/videos";
+"attachments.noSelection" = "— not selected —";
+"attachments.upTo" = "Up to 10 files";
+
+/* Criticality */
+"criticality.title" = "Criticality";
+
+/* Actions */
+"action.save" = "Save";
+"action.generateReport" = "Generate Report";
+"action.generating" = "Generating…";
+"action.done" = "Done";
+"action.error" = "Error";
+"action.ok" = "OK";
+"action.cancel" = "Cancel";
+"action.delete" = "Delete";
+"action.edit" = "Edit";
+
+/* Results */
+"result.openSheet" = "Open Spreadsheet";
+"result.openAttachments" = "Open Attachments";
+"result.successMessage" = "Created spreadsheet and Attachments folder with editor rights (anyone with link).";
+"result.saved" = "Bug report saved successfully";
+
+/* Validation */
+"validation.error" = "Required fields: Bug Type, Summary.";
+"validation.nameRequired" = "Name is required";
+
+/* Progress */
+"progress.creating" = "Creating spreadsheet and uploading files...";
+
+/* Header */
+"header.createReport" = "Create Bug Report";
+"header.fillDetails" = "Fill in the details below";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.language" = "Language";
+"settings.languageDesc" = "Choose app language";
+"settings.about" = "About";
+"settings.version" = "Version";

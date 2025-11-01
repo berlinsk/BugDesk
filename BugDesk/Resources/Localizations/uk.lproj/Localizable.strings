@@ -1,0 +1,122 @@
+/* App */
+"app.title" = "Bug Desk";
+"app.subtitle" = "Bug Reporting Tool";
+
+/* Menu */
+"menu.welcome" = "Ласкаво просимо";
+"menu.title" = "Головне меню";
+"menu.projects" = "Проекти";
+"menu.projectsDesc" = "Керування проектами відстеження багів";
+"menu.settings" = "Налаштування";
+"menu.settingsDesc" = "Параметри та конфігурація застосунку";
+
+/* Auth */
+"auth.signInPrompt" = "Увійдіть через Google, щоб створювати звіти";
+"auth.signInButton" = "Увійти";
+"auth.signOut" = "Вийти";
+"auth.signOutConfirm" = "Ви впевнені, що хочете вийти?";
+"auth.cancel" = "Скасувати";
+
+/* Projects */
+"projects.title" = "Проекти";
+"projects.empty" = "Поки немає проектів";
+"projects.emptyDesc" = "Створіть перший проект для відстеження багів";
+"projects.add" = "Новий проект";
+"projects.name" = "Назва проекту";
+"projects.namePlaceholder" = "Введіть назву";
+"projects.description" = "Опис";
+"projects.descriptionPlaceholder" = "Опис (необов'язково)";
+"projects.create" = "Створити проект";
+"projects.delete" = "Видалити";
+"projects.deleteConfirm" = "Видалити проект?";
+"projects.deleteMessage" = "Будуть видалені всі версії та баг-репорти";
+
+/* Versions */
+"versions.title" = "Версії";
+"versions.empty" = "Поки немає версій";
+"versions.emptyDesc" = "Створіть версію для організації баг-репортів";
+"versions.add" = "Нова версія";
+"versions.name" = "Назва версії";
+"versions.namePlaceholder" = "напр. 1.0.0";
+"versions.create" = "Створити версію";
+"versions.delete" = "Видалити версію";
+"versions.deleteConfirm" = "Видалити версію?";
+"versions.deleteMessage" = "Будуть видалені всі баг-репорти в цій версії";
+"versions.bugCount" = "%d багів";
+
+/* Bug List */
+"bugList.title" = "Баг-репорти";
+"bugList.empty" = "Немає баг-репортів";
+"bugList.emptyDesc" = "Додайте перший баг-репорт";
+"bugList.add" = "Додати баг";
+"bugList.generateList" = "Згенерувати звіт";
+"bugList.generating" = "Генерація...";
+
+/* Device */
+"device.title" = "Пристрій";
+"device.hint" = "Виберіть пристрої (пусто = всі)";
+
+/* Screen Module */
+"screenModule.title" = "Екран / модуль";
+"screenModule.hint" = "Напр. Settings / Profile";
+
+/* Bug Type */
+"bugType.title" = "Тип бага";
+"bugType.required" = "Тип бага (обов'язково)";
+"bugType.placeholder" = "Виберіть типи багів (обов'язково)";
+
+/* Summary */
+"summary.title" = "Резюме";
+"summary.required" = "Резюме (обов'язкове)";
+"summary.hint" = "Коротке резюме";
+
+/* Description */
+"description.title" = "Опис";
+"description.hint" = "Деталі (необов'язково)";
+
+/* Attachments */
+"attachments.app" = "Вкладення застосунку";
+"attachments.appHint" = "Вкладення застосунку (до 10)";
+"attachments.design" = "Вкладення макету";
+"attachments.designHint" = "Вкладення макету (до 10)";
+"attachments.select" = "Вибрати фото/відео";
+"attachments.noSelection" = "— не вибрано —";
+"attachments.upTo" = "До 10 файлів";
+
+/* Criticality */
+"criticality.title" = "Критичність";
+
+/* Actions */
+"action.save" = "Зберегти";
+"action.generateReport" = "Згенерувати звіт";
+"action.generating" = "Генерація…";
+"action.done" = "Готово";
+"action.error" = "Помилка";
+"action.ok" = "OK";
+"action.cancel" = "Скасувати";
+"action.delete" = "Видалити";
+"action.edit" = "Редагувати";
+
+/* Results */
+"result.openSheet" = "Відкрити таблицю";
+"result.openAttachments" = "Відкрити Attachments";
+"result.successMessage" = "Створено таблицю та папку Attachments з правами editor (будь-хто з посиланням).";
+"result.saved" = "Баг-репорт успішно збережено";
+
+/* Validation */
+"validation.error" = "Обов'язкові поля: Тип бага, Резюме.";
+"validation.nameRequired" = "Назва обов'язкова";
+
+/* Progress */
+"progress.creating" = "Створення таблиці та завантаження файлів...";
+
+/* Header */
+"header.createReport" = "Створити баг-репорт";
+"header.fillDetails" = "Заповніть деталі нижче";
+
+/* Settings */
+"settings.title" = "Налаштування";
+"settings.language" = "Мова";
+"settings.languageDesc" = "Виберіть мову застосунку";
+"settings.about" = "Про застосунок";
+"settings.version" = "Версія";

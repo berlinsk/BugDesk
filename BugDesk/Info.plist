@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow audio recording in bug report attachments</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow access to capture photos or videos for bug reports</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow access to select media for bug report attachments</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>GIDClientID</key>
+	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<array>
+				<string>GoogleSignIn</string>
+			</array>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.911678667567-k9qvp7kjn2edfd92t82hqvscvdvpi7no</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
